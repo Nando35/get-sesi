@@ -9,10 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FokusDotId/Qr-Baileys-MD.git"
+    "url": "git+https://github.com/hdrstore/get-sesi.git"
   },
   "keywords": [
-    "family-md",
     "termux-whatsapp-bot",
     "whatsapp-bot",
     "whatsapp",
@@ -26,16 +25,17 @@
     "multi-device",
     "md",
     "shiraori-md",
+    "family-md",
     "bot",
     "scanner",
     "wabot"
   ],
-  "author": "FokusDotId",
+  "author": "FR",
   "license": "GPL-3.0 License",
   "bugs": {
-    "url": "https://github.com/FokusDotId/Qr-Baileys-MD/issues"
+    "url": "https://github.com/hdrstore/get-sesi/issues"
   },
-  "homepage": "https://github.com/FokusDotId/Qr-Baileys-MD#readme",
+  "homepage": "https://github.com/hdrstore/get-sesi#readme",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "qrcode-terminal": "^0.12.0"
